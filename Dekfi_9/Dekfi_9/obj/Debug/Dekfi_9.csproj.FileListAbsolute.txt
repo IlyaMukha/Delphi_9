@@ -1,0 +1,17 @@
+C:\Users\invelio\Desktop\un\Dekfi_9\Dekfi_9\bin\Debug\Dekfi_9.exe.config
+C:\Users\invelio\Desktop\un\Dekfi_9\Dekfi_9\bin\Debug\Dekfi_9.exe
+C:\Users\invelio\Desktop\un\Dekfi_9\Dekfi_9\bin\Debug\Dekfi_9.pdb
+C:\Users\invelio\Desktop\un\Dekfi_9\Dekfi_9\obj\Debug\Dekfi_9.csproj.AssemblyReference.cache
+C:\Users\invelio\Desktop\un\Dekfi_9\Dekfi_9\obj\Debug\MainWindow.g.cs
+C:\Users\invelio\Desktop\un\Dekfi_9\Dekfi_9\obj\Debug\App.g.cs
+C:\Users\invelio\Desktop\un\Dekfi_9\Dekfi_9\obj\Debug\Dekfi_9_MarkupCompile.cache
+C:\Users\invelio\Desktop\un\Dekfi_9\Dekfi_9\obj\Debug\Dekfi_9_MarkupCompile.lref
+C:\Users\invelio\Desktop\un\Dekfi_9\Dekfi_9\obj\Debug\MainWindow.baml
+C:\Users\invelio\Desktop\un\Dekfi_9\Dekfi_9\obj\Debug\Dekfi_9.g.resources
+C:\Users\invelio\Desktop\un\Dekfi_9\Dekfi_9\obj\Debug\Dekfi_9.Properties.Resources.resources
+C:\Users\invelio\Desktop\un\Dekfi_9\Dekfi_9\obj\Debug\Dekfi_9.csproj.GenerateResource.cache
+C:\Users\invelio\Desktop\un\Dekfi_9\Dekfi_9\obj\Debug\Dekfi_9.csproj.CoreCompileInputs.cache
+C:\Users\invelio\Desktop\un\Dekfi_9\Dekfi_9\obj\Debug\Dekfi_9.exe
+C:\Users\invelio\Desktop\un\Dekfi_9\Dekfi_9\obj\Debug\Dekfi_9.pdb
+C:\Users\invelio\Desktop\un\Dekfi_9\Dekfi_9\obj\Debug\Window1.g.cs
+C:\Users\invelio\Desktop\un\Dekfi_9\Dekfi_9\obj\Debug\Window1.baml
